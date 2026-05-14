@@ -1,0 +1,65 @@
+a {
+    color: #CCCCCC;
+}
+
+a:active {
+    color: #CCCCCC;
+}
+
+a:visited {
+    color: #CCCCCC;
+}
+
+a:hover {
+    color: #FFFF00;
+}
+
+.menutext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #CCCCCC;
+    font-weight: bold;
+    clip: rect();
+}
+
+.main_header {
+    font-size: 18px;
+    font-weight: bold;
+    color: #999999;
+    font-family: Arial,
+        Helvetica, sans-serif;
+}
+
+.main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: #000000;
+}
+
+.nav_location {
+    font-size: 9px;
+    color:
+        #FFFFFF;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    ;
+    color: #000000
+}
+
+.main_text_header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:
+        10pt;
+    color: #003399;
+    ;
+    font-weight: bold
+}
+
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+}
